@@ -8,6 +8,9 @@
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
+  "scripts": {
+    "start": "bun bot.ts"
+  },
   "dependencies": {
     "discord.js": "^14.14.1",
     "fuse.js": "^7.0.0",
